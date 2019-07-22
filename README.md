@@ -1,0 +1,1 @@
+# AnalysisServiceScript1
